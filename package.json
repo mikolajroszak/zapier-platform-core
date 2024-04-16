@@ -42,11 +42,11 @@
     "content-disposition": "0.5.2",
     "dotenv": "5.0.1",
     "form-data": "2.3.2",
-    "lodash": "4.17.10",
+    "lodash": "4.17.17",
     "node-fetch": "1.7.1",
     "oauth-sign": "0.9.0",
     "semver": "5.6.0",
-    "zapier-platform-schema": "7.6.0"
+    "zapier-platform-schema": "13.0.0"
   },
   "devDependencies": {
     "adm-zip": "0.4.9",
